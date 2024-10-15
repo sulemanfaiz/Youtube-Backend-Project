@@ -12,5 +12,11 @@
     "chai"
   ],
   "author": "suleman faiz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "D": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
